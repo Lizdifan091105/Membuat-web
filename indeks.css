@@ -1,15 +1,18 @@
 body{
-    background-color:royalblue;
+    font-style:  serif;
     justify-content: center;
+    background-image: url(back1.jpg);
+    color: #EAEE0A;
     
     
 }
 .tombol1{
-    background-color: azure;
-    font-style: italic;
+    background-color:#EEE731;
+    font-style: serif;
+    color:black;
     font-size: 23px;
-    justify-content: center;
+    justify-items: center;
     align-content: center;
-    display:flex;
+    
     
 }
